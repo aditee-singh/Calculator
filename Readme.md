@@ -11,6 +11,8 @@ Designed a calculator from scratch using HTML, CSS, JavaSript.
 
 - It performs all basic mathematical calculations.
 
+- Enhances readability by adding commas while displaying large numbers.
+
 - It works fine for specific cases like a negation preceding a number and two operators pressed simultaneously. 
  
  ## Technologies used
